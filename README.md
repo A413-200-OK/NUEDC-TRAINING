@@ -24,7 +24,7 @@
 * 
 *  
 
-## tecnology stack required the training text
+## technology stack required the training text
 
 ### To MedicineDeliveryTrolley
 *  
