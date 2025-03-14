@@ -1,5 +1,5 @@
 # NUEDC_TRAINING
-**For the NUEDC on 2025 , we use the responlity to record our experence**
+**For the NUEDC on 2025 , we use the repository to record our experence**
 
 > (https://www.nuedc-training.com.cn/)
 
