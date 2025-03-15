@@ -27,10 +27,10 @@
 ## technology stack required the training text
 
 ### To MedicineDeliveryTrolley
-*  
-*  
-*  
-* 
+*  编码电机与PID算法的结合
+*  基础python学习和OPENMV学习
+*  串口通信
+*  ESP-NOW使用（两车通信）
 * 
 ### To 
 *  
