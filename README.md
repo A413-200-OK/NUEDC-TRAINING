@@ -31,7 +31,7 @@
 *  基础python学习和OPENMV学习
 *  串口通信
 *  ESP-NOW使用（两车通信）
-* 
+*  基于platformio对ESP32的开发  
 ### To 
 *  
 *  
