@@ -53,12 +53,12 @@
 ## For NUEDA （设备清单）
 
 ### 硬件材料
-*esp32 WROOM 32
-*open MV 
-*热风枪，电烙铁
-*编码电机
-*OLED屏幕
-*寻迹模块
+* esp32 WROOM 32
+* open MV 
+* 热风枪，电烙铁
+* 编码电机
+* OLED屏幕
+* 寻迹模块
 ### 软件工具链
 嘉立创EDA -> VScode.platformIO ->  
 
