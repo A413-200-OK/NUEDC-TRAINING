@@ -19,9 +19,9 @@
 *  硬件连接
 * 
 
-3.  
-*  
-* 
+3.  riverface
+*  pcb布线，硬件连接
+* 外观设计
 *  
 
 ## technology stack required the training text
