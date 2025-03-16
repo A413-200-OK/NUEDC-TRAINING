@@ -6,7 +6,7 @@
 
 ## Trainnig texts
 1.  [送药小车](https://www.nuedc-training.com.cn/index/news/details/new_id/259)
-###题目分析
+### 题目分析
 整个过程只有两个动作：直走和转弯，因为题目所给时间太短，所以使用编码电机结合PID算法直接固定直走距离和转弯角度。
 对于基本要求一，识别到是近端病房后直接行驶到第一个路口再进行识别来确认是左转或右转
 对于基本要求二和三识别到不是近端病房就直接行驶到第二个交叉口再进行数字识别，识别不匹配就行驶到第三个交叉口。
@@ -69,7 +69,9 @@
 * OLED屏幕
 * 寻迹模块
 ### 软件工具链
-嘉立创EDA -> VScode.platformIO ->  
+嘉立创EDA 
+VScode.platformIO 
+OPEN MV IDE   
 
 
 
