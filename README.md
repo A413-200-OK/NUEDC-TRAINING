@@ -67,7 +67,7 @@
 * 热风枪，电烙铁
 * 编码电机
 * OLED屏幕
-* 寻迹模块
+* 寻迹模块TCRT5000
 ### 软件工具链
 嘉立创EDA 
 VScode.platformIO 
